@@ -110,7 +110,7 @@ print(type(isFamale))
 print(type(var))
 
 print ("*"*50)
-# Casting a Variables
+print("Casting a Variables")
 print (type(str(age)))
 print(type(age))
 print(age)
@@ -123,8 +123,14 @@ print("Value: {}, Type: {}".format(age,type(age)))
 f=44.99
 f= int(f)
 print("Value: {}, Type: {}".format(f,type(f))) 
+a=1
+b=2
+c=3
 
+print(f"{a} {b} {c}")
+a ,b ,c = 9 , 7, 5
 
+print(f"{a} {b} {c}")
 
 
 

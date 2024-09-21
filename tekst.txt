@@ -1,0 +1,7 @@
+Tekst w pliku tekstowym.
+WiÄ™cej tekstu.
+Trzecia linia.
+Kolejna linia.
+Dodaje kolejnï¿½ linie z pythona
+Dodaje kolejn¹ linie z pythona
+Dodaje kolejn¹ linie z pythona
